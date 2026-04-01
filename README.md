@@ -1,4 +1,4 @@
-# CSCI-B-351-Final-Project
+# AI-MadLibs-Project
 
 **Abstract – This project aims to build an AI-powered Mad Libs generator that fills in story blanks using natural language processing and word-embedding-based semantic analysis. By combining part-of-speech tagging, context vector similarity, and AI scoring mechanisms, our system will choose words that are both grammatically correct and contextually meaningful. The result is a theme-based, coherent story generator that uses AI techniques to understand and generate language.**
 
